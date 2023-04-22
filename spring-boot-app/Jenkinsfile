@@ -1,4 +1,3 @@
-def release_version
 pipeline {
   environment {
     PROJECT = "sandbox-io-289003"
