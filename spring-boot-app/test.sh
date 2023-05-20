@@ -1,1 +1,1 @@
-helm template  taji ./taj-helm/ --set image.tag=windows > k8.yaml
+helm template  taji ./taj-helm/ --set image.tag=apple > k8.yaml
